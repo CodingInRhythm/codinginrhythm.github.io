@@ -3348,3 +3348,12 @@ input, select, textarea {
 		display: flex;
 		gap: 50px;
 	}
+
+	.contact-info {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.contact-info p {
+		margin: 20px 0px;
+	}
