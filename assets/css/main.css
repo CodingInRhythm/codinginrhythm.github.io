@@ -3355,5 +3355,9 @@ input, select, textarea {
 	}
 
 	.contact-info p {
-		margin: 20px 0px;
+		margin: 05px 0px;
+	}
+
+	.contact-info p:first-child{
+		margin-top: 20px;
 	}
